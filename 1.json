@@ -1,0 +1,12 @@
+{
+  "tokenId": 1,
+  "name": "star 1",
+  "description": "star",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "star"
+    }
+  ],
+  "image": "ipfs://update/1.png"
+}
