@@ -1,0 +1,43 @@
+{
+  "tokenId": 7,
+  "name": "Horsin'Around 7",
+  "description": "Ladies and gentlemen, warm welcome into the jockey establishment. Horsin’ Around is a plain but gainful Web3 Horse Racing platform. Project has a place only for risk-takers, the ones who can become the part of the fastest growing and competitive horse racing ecosystem. Introducing a collection of 3,335 purebreds. Horsin’ Around is the home of 3,333 Sham the Racers and 2 the most exceptional and rare sprinters, Secretariat the Golden Crown, and Bubble Gum the Rainbow Tail. Each horse has different powers and skills that help them to win the contest.",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Backgrounds Pink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Kevlar Helm"
+    },
+    {
+      "trait_type": "Horse Hair",
+      "value": "Native Hair"
+    },
+    {
+      "trait_type": "Horses",
+      "value": "Horse Cowboy"
+    },
+    {
+      "trait_type": "Level&Stats",
+      "value": "Level 5: Speed 5 / Stamina 5 / Composure 5 / Reflexes 5"
+    },
+    {
+      "trait_type": "Rig",
+      "value": "WGTS_horse_rig"
+    },
+    {
+      "trait_type": "Sadle",
+      "value": "Sadle Concistador"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Weapon Long Sword"
+    }
+  ],
+  "image": "ipfs://QmZj7aNaNhKaJUbHEmk6RnuYNiS8dHntheh2kW5d2HV9SW/7.gif",
+  "edition": {
+    "id": "7"
+  }
+}
