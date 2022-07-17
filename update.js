@@ -8,12 +8,11 @@ inputFiles.forEach((file) => {
     let id = file.split(".").shift();
     let data = JSON.parse(fs.readFileSync(`${dir}/${file}`   ));
 
+    data.tokenId = 'edition'
+    data.edition= id 
     data.name = `star ${id}`;
     data.image = `ipfs://QmZj7aNaNhKaJUbHEmk6RnuYNiS8dHntheh2kW5d2HV9SW/${id}.png`;
 
     fs.writeFileSync(`${dir}/${file}` , JSON.stringify(data, null, 2));
     console.log(data);
-
-
-
 });
